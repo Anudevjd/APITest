@@ -2,7 +2,7 @@
 
 I have used Nuint test Project(.Net Core) in C#, Specflow 3.5.5, RestSharp 106.11.7
 
-The Framework tests the follwong scenarios
+The Framework tests the following scenarios
 
 1.Verify that a POST request can be posted to the API to create the single user and assert that the single user is created.
 2.Verify that a GET request can be posted to the API to get the expected details of single user
